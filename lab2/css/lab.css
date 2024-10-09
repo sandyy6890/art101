@@ -2,14 +2,16 @@
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 #content {
-    color: #FF5722;
-    font-size: 20%;
+    color: hsl(22, 98%, 48%);
+    font-size: 70%;
     padding: 10px;
     margin-bottom: 10px;
     border: solid 3px #0cdad6;
     background-color: #5810af;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   .minor-section {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black
   }
+  
   
