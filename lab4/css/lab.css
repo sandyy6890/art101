@@ -4,6 +4,21 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #531bb5;
+    background-color: #1f9db9;
+  }
+
+  #content {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px #c27fd5;
+    background-color: #5112be9a;
+  }
+  
+  /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+  .minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #f17764;
+    background-color: #000000;
   }
