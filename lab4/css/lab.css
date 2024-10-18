@@ -16,3 +16,8 @@
     border: solid 1px #f17764;
     background-color: #bc2008;
   }
+
+  #output.minor-section {
+    margin: 10px;
+    padding: 10px;
+  }
