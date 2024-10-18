@@ -17,7 +17,8 @@
     background-color: #bc2008;
   }
 
-  #output.minor-section {
+  #output.minor-section, code {
     margin: 10px;
     padding: 10px;
+    text-align: center;
   }
