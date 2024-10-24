@@ -3,7 +3,7 @@
 // Date: 10.23.2024
 
 // myTransport array
-myTransport = ["Blue Beamer", "walk", "bus"];
+myTransport = ["Blue Beamer", " walk", " bus"];
 
 // Object For myMainRide
 myMainRide = {
