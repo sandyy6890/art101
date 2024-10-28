@@ -4,3 +4,12 @@
     border: solid 1px #c9310b;
     background-color: #9198cd;
   }
+
+  #stinky { 
+    margin: 10px;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
