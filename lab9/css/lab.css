@@ -1,4 +1,6 @@
 .special {
-    background-color: rgb(4, 206, 165);
-    color: rgb(255, 51, 0);
+    background-color: rgb(35, 216, 204);
+    font-weight: bold;
+    border: oklab(from color l a b);
+    color: rgb(68, 5, 98);
 }
