@@ -1,4 +1,4 @@
-//lab.js - This simple JavaScript/jQuery script helps create a sorting hat by recieving a name and outputing a Hogwarts house name.
+//lab.js - This simple JavaScript/jQuery script helps create the game FizzBuzz using looping functions.
 //Requirements: jQuery must be loaded for this script to work.
 //Author: Sandy Strishak, Panetha Jayakumar
 //Date: 11/19/2024
