@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- This title is used for tabs and bookmarks -->
+	<title>Lab 16: JSON and APIs</title>
+
+	<!-- Use UTF character set, a good idea with any webpage -->
+  	<meta charset="UTF-8" />
+	<!-- Set viewport so page remains consistently scaled w narrow devices -->
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<!-- Include a sitewide CSS file for consistent styling across the site -->
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<!-- Lab-specifc CSS file for any special styling of this particular page -->
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+	
+	<!-- load jQuery library to make javascript easier (must be above our lab js)-->
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+	<!-- Link to javascript file - DEFER waits until all elements are rendered-->
+	<script type="text/javascript" src="./js/lab.js" DEFER></script>
+</head>
+<body>
+
+	<main id="content">
+		<section>
+			<div>
+			<h1>Lab 16 - JSON and APIs</h1>
+			</div>
+			
+			<div id="challenge">
+                <div class="minor-section">
+					<h2>Challenge</h2>
+					<p>The challenge of this lab was to create a site using the api for the XKCD api by linking the endpoint JSON into a js file and appending in js to create an html site.</p>
+                </div>
+			</div>
+
+			<div id="problems">
+                <div class="minor-section">
+					<h2>Problems</h2>
+					<p>I had the most trouble getting the api to link correctly, but my partner was very helpful.</p>
+			    </div>
+            </div>
+
+			<div id="reflection">
+                <div class="minor-section">
+					<h2>Reflection</h2>
+					<p>Overall this lab went ok, it was stressful in the begining, but after getting help with my js from my partner I was able to complete it successfully.</p>
+			    </div>
+            </div>
+
+			<div id="results">
+                <div class="minor-section">
+				    <h2>Results</h2>
+                    <div id="input">
+                        <h4>How do you want to get your XKCD comic?</h4>
+                        <div id="buttons">
+                            <button id="specific">Manually entering a comic ID</button>
+                            <button id="random">Generating a random comic</button>
+                        </div>
+                        <div id="manual"></div>
+                    </div> 
+                    <div id="output"></div>
+    
+                     </div>
+                      
+			</div>
+			</div>
+		</section>
+        <nav id="links">
+		</nav>
+</main>
+</body>
+</html>
+
